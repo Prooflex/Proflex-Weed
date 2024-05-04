@@ -1,5 +1,7 @@
 This was a project of main back in 2023, I had high encouragement for it but a little while ago i went on holiday and lost complete interest. Heres the unfinished files 
 
+
+QB-CORE, ESX - untested may work as doesnt really contain anything QB function wise.
 Built only for ox_target, ox_inventory, 
 
 HIGHLY UNFINISHED WILL REQUIRE SOME KNOWLEDGE TO FIX UP.
